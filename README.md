@@ -103,7 +103,7 @@ This script performs:
 **Mohamed Elhaysam Omar**  
 Data Engineering | Data Warehousing | ETL | SQL  
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/mohamed-elhaysam-omar-selim/)) |
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-elhaysam-omar-selim/) |
 
 
 
