@@ -6,7 +6,7 @@ It demonstrates the full workflow of loading raw CRM & ERP data (CSV files) into
 
 - **Bronze Layer** → Raw data ingestion (directly from CSVs).  
 - **Silver Layer** → Cleaned, standardized, and validated data ready for analysis.  
-- **(Future: Gold Layer)** → Business-level data marts for reporting and analytics.  
+- **Gold Layer** → Business-level data marts for reporting and analytics.  
 
 The dataset simulates CRM & ERP sources, and the ETL scripts ensure data quality, consistency, and usability.
 
